@@ -6,7 +6,7 @@ Version: 1.0.0
 
 Date: 2026-03-12
 
-From: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
+Codes and descriptions from: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 
 -----
 
