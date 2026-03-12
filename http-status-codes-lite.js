@@ -1,3 +1,19 @@
+// @ts-check
+/// <reference lib="esnext" />
+/// <reference lib="esnext.iterator" />
+/// <reference lib="dom" />
+/// <reference lib="dom.iterable" />
+/// <reference lib="dom.asynciterable" />
+/// <reference lib="webworker.importscripts" />
+"use strict";
+
+/**
+ * @name http-status-codes
+ * @version 1.0.0 lite
+ * @author Ferenc Czigler
+ * @see https://github.com/Serrin/http-status-codes
+ * @license MIT https://opensource.org/licenses/MIT
+ */
 
 /*
 2026-03-12
@@ -5,7 +21,7 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 https://httpwg.org/specs/rfc9110.html#overview.of.status.codes
 */
 
-const HTTP_STATUS_CODES = Object.frezze({
+const HTTP_STATUS_CODES = Object.freeze({
   /* ======================================================================== */
   /* Informational responses (100 – 199) */
   "100": "Continue",
