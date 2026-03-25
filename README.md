@@ -2,9 +2,9 @@
 
 HTTP status codes in a JS module
 
-Version: 1.0.0
+Version: 1.0.1
 
-Date: 2026-03-12
+Date: 2026-03-25
 
 Codes and descriptions from: https://developer.mozilla.org/en-US/docs/Web/HTTP/Reference/Status
 

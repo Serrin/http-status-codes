@@ -9,7 +9,7 @@
 
 /**
  * @name http-status-codes
- * @version 1.0.0 full
+ * @version 1.0.1 full
  * @author Ferenc Czigler
  * @see https://github.com/Serrin/http-status-codes
  * @license MIT https://opensource.org/licenses/MIT
@@ -109,7 +109,7 @@ const HTTP_STATUS_CODES = Object.freeze({
     "description": "Defined in a previous version of the HTTP specification to indicate that a requested response must be accessed by a proxy. It has been deprecated due to security concerns regarding in-band configuration of a proxy."
   }),
   "306": Object.freeze({
-    "name": "unused}, reserved code",
+    "name": "unused, reserved code",
     "description": "This response code is no longer used; but is reserved. It was used in a previous version of the HTTP/1.1 specification."
   }),
   "307": Object.freeze({

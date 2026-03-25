@@ -9,7 +9,7 @@
 
 /**
  * @name http-status-codes
- * @version 1.0.0 lite
+ * @version 1.0.1 lite
  * @author Ferenc Czigler
  * @see https://github.com/Serrin/http-status-codes
  * @license MIT https://opensource.org/licenses/MIT
@@ -48,7 +48,7 @@ const HTTP_STATUS_CODES = Object.freeze({
   "303": "See Other",
   "304": "Not Modified",
   "305": "Use Proxy Deprecated",
-  "306": "unused}, reserved code",
+  "306": "unused, reserved code",
   "307": "Temporary Redirect",
   "308": "Permanent Redirect",
   /* ======================================================================== */
